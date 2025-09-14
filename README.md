@@ -1,5 +1,7 @@
 <div align="center">
+
 # LINMA
+
 # (Language Image Natural Modeling Architecture)
 </div>
 
@@ -13,11 +15,11 @@
 
 | LINMA STOne |
 |:---:|
-| <img src="images/linma_stone.jpg" width="200" alt="ͼƬ"> | 
+| <img src="images/linma_STOne.jpg" width="350" alt="ͼƬ"> | 
 
 | LINMA STICK |
 |:---:|
-| <img src="images/linma_STICK.jpg" width="200" alt="ͼƬ"> | 
+| <img src="images/linma_STICK.jpg" width="350" alt="ͼƬ"> | 
 
 | LINMA |
 |:---:|
