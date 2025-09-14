@@ -5,7 +5,7 @@
 # (Language Image Natural Modeling Architecture)
 </div>
 
-###   [@linmaworld](https://x.com/linmaworld)£©
+###   [@linmaworld](https://x.com/linmaworld)
 
 | LINMA ABSTRACT |
 |:---:|
