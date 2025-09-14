@@ -1,23 +1,27 @@
 <div align="center">
-
-# Language Image Natural Modeling Architecture
 # LINMA
-
+# (Language Image Natural Modeling Architecture)
 </div>
 
-
-###  [](images)£¨by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)£©
-
-| LINMA ABSTRACT |
-|:---:|
-| <img src="images/linma_abstract.jpg" width="200" alt="Í¼Æ¬"> | 
-
-
-###  [LINMA PAPER](https://vixra.org/abs/2509.0024) (  [PDF](https://vixra.org/pdf/2509.0024v1.pdf))
+###   [@linmaworld](https://x.com/linmaworld)£©
 
 | LINMA ABSTRACT |
 |:---:|
 | <img src="images/linma_abstract.jpg" width="200" alt="Í¼Æ¬"> | 
+
+###  [LINMA PAPER vixra:2509.0024](https://vixra.org/abs/2509.0024) (  [PDF](https://vixra.org/pdf/2509.0024v1.pdf))
+
+| LINMA STOne |
+|:---:|
+| <img src="images/linma_stone.jpg" width="200" alt="Í¼Æ¬"> | 
+
+| LINMA STICK |
+|:---:|
+| <img src="images/linma_STICK.jpg" width="200" alt="Í¼Æ¬"> | 
+
+| LINMA |
+|:---:|
+| <img src="images/linma_cover.jpg" width="200" alt="Í¼Æ¬"> | 
 
 
 
