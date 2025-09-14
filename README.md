@@ -17,6 +17,10 @@
 |:---:|
 | <img src="images/linma_STOne.jpg" width="400" alt="ͼƬ"> | 
 
+| LINMA STOne Animation|
+|:---:|
+| <img src="images/linma_STOne.mp4" width="400" alt="ͼƬ"> | 
+
 | LINMA STICK |
 |:---:|
 | <img src="images/linma_STICK.jpg" width="400" alt="ͼƬ"> | 
