@@ -30,7 +30,7 @@
 | <img src="images/linma_cover.jpg" width="400" alt="ͼƬ"> | 
 
 | LINMA's First Law (Law of Head) |
-|:---:|
+|:---|
 | S, is to depict Head. |
 
 | LINMA's Second Law (Law of Limb Posture) |
@@ -44,4 +44,5 @@
 | LINMA's Forth Law (Law of Trajectory) |
 |:---:|
 | L r o e, are to depict Motion Trajectories. |
+
 
