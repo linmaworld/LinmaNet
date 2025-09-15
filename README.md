@@ -46,8 +46,9 @@
 | L r o e, are to depict Motion Trajectories. |
 
 ```
-[![video](video_link)](https://github.com/linmaworld/LinmaNet/blob/7376bb3de505ca774e598d40b56a5a86fc62c6f0/images/linma_STOne.mp4)
+[![video](https://github.com/linmaworld/LinmaNet/blob/7376bb3de505ca774e598d40b56a5a86fc62c6f0/images/linma_STOne.mp4)](https://github.com/linmaworld/LinmaNet/blob/7376bb3de505ca774e598d40b56a5a86fc62c6f0/images/linma_STOne.mp4)
 ```
+
 
 
 
