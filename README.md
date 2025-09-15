@@ -39,7 +39,7 @@
 
 | LINMA's Third Law (Law of Hand Shape) |
 |:---|
-| F m b p q d, etc., are to depict Hand Shapes. |
+| F m b p q d a, etc., are to depict Hand Shapes. |
 
 | LINMA's Forth Law (Law of Trajectory) |
 |:---|
@@ -53,6 +53,7 @@
 ```
 https://github.com/linmaworld/LinmaNet/blob/7376bb3de505ca774e598d40b56a5a86fc62c6f0/images/linma_STOne.mp4
 ```
+
 
 
 
