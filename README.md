@@ -25,8 +25,22 @@
 |:---:|
 | <img src="images/linma_STICK.jpg" width="400" alt="ͼƬ"> | 
 
-| LINMA |
+| LINMA Behavior Vision Language |
 |:---:|
 | <img src="images/linma_cover.jpg" width="400" alt="ͼƬ"> | 
 
+| LINMA's First Law (Law of Head) |
+|:---:|
+| S, is to dipict Head. |
 
+| LINMA's Second Law (Law of Limb Posture) |
+|:---:|
+| T C h k w u v g, etc., are to dipict Limb Postures. |
+
+| LINMA's Third Law (Law of Hand Shape) |
+|:---:|
+| F m b p q d, etc., are to dipict Hand Shapes. |
+
+| LINMA's Forth Law (Law of Trajectory) |
+|:---:|
+| L r o e, are to dipict Motion Trajectories. |
