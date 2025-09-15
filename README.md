@@ -29,7 +29,7 @@
 |:---:|
 | <img src="images/linma_cover.jpg" width="400" alt="ͼƬ"> | 
 
-| LINMA's First Law (Law of Head) |
+| **LINMA's First Law (Law of Head)** |
 |:---|
 | S, is to depict Head. |
 
@@ -53,6 +53,7 @@
 ```
 https://github.com/linmaworld/LinmaNet/blob/7376bb3de505ca774e598d40b56a5a86fc62c6f0/images/linma_STOne.mp4
 ```
+
 
 
 
