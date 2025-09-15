@@ -34,15 +34,16 @@
 | S, is to depict Head. |
 
 | LINMA's Second Law (Law of Limb Posture) |
-|:---:|
+|:---|
 | T C h k w u v g, etc., are to depict Limb Postures. |
 
 | LINMA's Third Law (Law of Hand Shape) |
-|:---:|
+|:---|
 | F m b p q d, etc., are to depict Hand Shapes. |
 
 | LINMA's Forth Law (Law of Trajectory) |
-|:---:|
+|:---|
 | L r o e, are to depict Motion Trajectories. |
+
 
 
