@@ -25,6 +25,11 @@
 |:---:|
 | <img src="images/linma_STICK.jpg" width="400" alt="ͼƬ"> | 
 
+| LINMA chiLd |
+|:---:|
+| <img src="images/linma_chiLd.jpg" width="400" alt="ͼƬ"> | 
+
+
 | LINMA Behavior Vision Language |
 |:---:|
 | <img src="images/linma_cover.jpg" width="400" alt="ͼƬ"> | 
@@ -44,4 +49,5 @@
 | LINMA's Forth Law (Law of Trajectory) |
 |:---|
 | L r o e, are to depict Motion Trajectories. |
+
 
