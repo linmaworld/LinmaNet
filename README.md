@@ -5,7 +5,9 @@
 # (Language Image Natural Modeling Architecture)
 </div>
 
-###   [@linmaworld](https://x.com/linmaworld)
+### [weibo:@linma](https://m.weibo.cn/u/7901318704)
+
+###   [x:@linmaworld](https://x.com/linmaworld)
 
 | LINMA ABSTRACT |
 |:---:|
@@ -49,5 +51,6 @@
 | LINMA's Forth Law (Law of Trajectory) |
 |:---|
 | L r o e, are to depict Motion Trajectories. |
+
 
 
