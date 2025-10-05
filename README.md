@@ -9,8 +9,7 @@
 
 ### [weibo:@linma](https://m.weibo.cn/u/7901318704)
 
-### 
-[github:linmaworld](https://github.com/linmaworld/LinmaNet)
+### [github:@linmaworld](https://github.com/linmaworld/LinmaNet)
 
 | LINMA ABSTRACT |
 |:---:|
@@ -80,6 +79,7 @@ https://github.com/user-attachments/assets/f1ef6bf4-b26a-4ef3-971b-7c297b8243b8
 | LINMA's Forth Law (Law of Trajectory) |
 |:---|
 | L r o e, are to depict Motion Trajectories. |
+
 
 
 
