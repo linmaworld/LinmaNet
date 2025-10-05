@@ -39,7 +39,9 @@ https://github.com/user-attachments/assets/ffab4c33-d38c-4789-afb1-8d74179e3317
 
 
 LINMA STOne
+
 https://github.com/user-attachments/assets/03e56bed-d168-4c8e-a3cd-8ee4c635a3a8
+
 
 LINMA STICK
 https://github.com/user-attachments/assets/1bf51706-a6ed-4461-aed5-6574fa02bf83
@@ -71,6 +73,7 @@ https://github.com/user-attachments/assets/f1ef6bf4-b26a-4ef3-971b-7c297b8243b8
 | LINMA's Forth Law (Law of Trajectory) |
 |:---|
 | L r o e, are to depict Motion Trajectories. |
+
 
 
 
